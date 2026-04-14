@@ -21,4 +21,5 @@ Tasks are stored in the browser using localStorage, so they remain available eve
 
 ##  Screenshot
 
-![image alt = "https://github.com/gayathrilakkoju/taskflow-drag-drop/blob/main/Dragndroppic.jpg?raw=true"]
+## 📷 Screenshot
+![TaskFlow Screenshot](https://github.com/gayathrilakkoju/taskflow-drag-drop/blob/main/Dragndroppic.jpg?raw=true)
